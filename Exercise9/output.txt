@@ -1,0 +1,11 @@
+list the students in alphabetical order, and indicate the numerical grade
+Jones    77.2
+Smith    87.2
+Thomas   56.4
+Westerly 41.8
+
+show all the students who passed, followed by all the students who failed
+Thomas   P
+Smith    P
+Jones    P
+Westerly F

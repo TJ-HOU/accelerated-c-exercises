@@ -1,0 +1,45 @@
+Q1: test constructors
+
+AAA
+XXX
+XXX
+
+Q2: test the c_str, data, and copy
+Hello World!
+Hello World!
+Hello World!
+Hello World!
+
+Q3: test the relational operators
+1
+0
+1
+0
+
+Q4: test == and != operators
+0
+1
+
+Q5: test + operators
+Hello World!
+Hello World!
+Hello World!
+
+Q6: test conversion operators
+Yes
+Yes
+
+Q7: test iterators
+Hello, World!
+Hello, World!
+
+Q8: test getline, >>
+Enter space-delimited text: abc edg hjg
+Enter space-delimited text: abc
+
+Q9: test output operator
+Hello World!
+
+Q12: test insert function
+Hello World!
+

@@ -1,0 +1,25 @@
+Exercise 12-10: 
+Test iterators constructor: 
+123
+
+Exercise 12-12: 
+Test insert: 
+123456
+
+Exercise 12-13: 
+Test assign: 
+456
+
+Exercise 12-14: 
+Test initializing from a string: 
+123456
+
+Exercise 11-6: 
+Test erase: 
+v0 size: 3
+v0 size after erase the 1st element: 2
+23
+
+Test clear: 
+after clear v0 size: 0
+

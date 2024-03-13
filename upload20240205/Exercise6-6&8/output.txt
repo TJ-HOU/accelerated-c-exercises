@@ -1,0 +1,20 @@
+These students did all homework:
+Moo
+median(did) = 100
+optimistic_median(did) = 100
+average(did) = 100
+
+These students didn't do all homework:
+Moore
+Olson
+median(didnt) = 64
+optimistic_median(didnt) = 65.6
+average(didnt) = 61.8
+
+These students have passed:
+Moo (100)
+Moore (75.8)
+
+These students have failed:
+Olson (52.2)
+

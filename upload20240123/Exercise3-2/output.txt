@@ -1,0 +1,5 @@
+Enter a set of numbers, followed by end-of-file: 
+Quantiles: 
+Q1: 7
+Q2: 9
+Q3: 15

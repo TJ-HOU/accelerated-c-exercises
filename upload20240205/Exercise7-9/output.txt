@@ -1,0 +1,17 @@
+genreate a random integer between 0 and 2147483647
+
+nrand() result: 16807
+library result: 317278233
+
+nrand() result: 282475249
+library result: 1156326387
+
+nrand() result: 1622650073
+library result: 1406702275
+
+nrand() result: 984943658
+library result: 957799755
+
+nrand() result: 1144108930
+library result: 781245650
+

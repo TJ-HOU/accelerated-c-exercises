@@ -1,0 +1,12 @@
+Meerson
+numeric grade: 66.6
+letter grade: P
+Moo
+numeric grade: 100
+letter grade: A+
+Moore
+numeric grade: 77
+letter grade: C+
+Norman
+numeric grade: 0
+letter grade: Audit

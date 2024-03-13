@@ -1,0 +1,5 @@
+Moo     100
+Moore   79.4
+Norman  73
+Olson   82.8
+Peerson 66.6

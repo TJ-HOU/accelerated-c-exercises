@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "stdexcept": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "iomanip": "cpp"
+    },
+   "C_Cpp.errorSquiggles": "disabled",
+   "editor.detectIndentation": false,
+   "editor.tabSize": 3
+}

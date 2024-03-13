@@ -1,0 +1,50 @@
+Exercise 10-4: 
+Test push_back: 
+the
+first
+string
+list
+
+Test reverse: 
+list
+string
+first
+the
+
+Test append: 
+list
+string
+first
+the
+add
+another
+string
+list
+
+Exercise 10-5: 
+Test == and != operators
+The beginning
+Is not the end
+
+Test dereference: 
+one
+3
+
+Test increment: 
+two
+three
+three
+four
+
+Test decrement: 
+three
+two
+two
+one
+
+Exercise 10-6: 
+Test split: 
+Split
+this
+string!
+

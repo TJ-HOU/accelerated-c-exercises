@@ -1,0 +1,21 @@
+Exercise 5-9: 
+bib
+good
+c++
+over
+mnac
+Morning
+DEIfied
+rOtaToR
+
+Exercise 5-10: 
+bib
+DEIfied
+rOtaToR
+the longest palindrome is DEIfied
+
+Exercise 5-11: 
+c++
+over
+mnac
+the longest word that has neither ascenders nor descenders: over

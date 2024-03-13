@@ -1,0 +1,98 @@
+Test the Student_info class for Undergrad, Grad, P/F, Audit students
+Moo
+numeric grade: 100
+letter grade: A+
+Moore
+numeric grade: 79.4
+letter grade: C+
+Norman
+numeric grade: 73.8
+letter grade: P
+Olson
+numeric grade: 0
+letter grade: Audit
+Peerson
+numeric grade: 66.6
+letter grade: D
+
+Picture: 
+hello
+world
+
+Framed picture: 
+#*******#
+^       ^
+^ hello ^
+^ world ^
+^       ^
+#*******#
+
+Concatenate pictures horizontally: 
+     #*******#
+     ^       ^
+hello^ hello ^
+world^ world ^
+     ^       ^
+     #*******#
+
+Concatenate pictures vertically: 
+#*******#
+^       ^
+^ hello ^
+^ world ^
+^       ^
+#*******#
+     #*******#
+     ^       ^
+hello^ hello ^
+world^ world ^
+     ^       ^
+     #*******#
+
+Frame previous pictures: 
+#******************************#
+^                              ^
+^ #*******#          #*******# ^
+^ ^       ^          ^       ^ ^
+^ ^ hello ^     hello^ hello ^ ^
+^ ^ world ^     world^ world ^ ^
+^ ^       ^          ^       ^ ^
+^ #*******#          #*******# ^
+^      #*******##*******#      ^
+^      ^       ^^       ^      ^
+^ hello^ hello ^^ hello ^      ^
+^ world^ world ^^ world ^      ^
+^      ^       ^^       ^      ^
+^      #*******##*******#      ^
+^                              ^
+#******************************#
+
+Reframe the picture: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                              ~
+~ #*******#          #*******# ~
+~ ^       ^          ^       ^ ~
+~ ^ hello ^     hello^ hello ^ ~
+~ ^ world ^     world^ world ^ ~
+~ ^       ^          ^       ^ ~
+~ #*******#          #*******# ~
+~      #*******##*******#      ~
+~      ^       ^^       ^      ~
+~ hello^ hello ^^ hello ^      ~
+~ world^ world ^^ world ^      ~
+~      ^       ^^       ^      ~
+~      #*******##*******#      ~
+~                              ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Histogram of students' final grades
+#******************************#
+^                              ^
+^ Moo     ==================== ^
+^ Moore   ===============      ^
+^ Norman  ==============       ^
+^ Olson                        ^
+^ Peerson =============        ^
+^                              ^
+#******************************#
+

@@ -1,0 +1,16 @@
+
+Fail list: 
+Joe 59.6
+
+Pass list: 
+Johnny 68
+Jared 68
+
+Time taken of resizing method is : 0.00014 sec 
+Fail list: 
+Joe 59.6
+
+Pass list: 
+Johnny 68
+Jared 68
+Time taken of erasing method is : 8.8e-05 sec 
